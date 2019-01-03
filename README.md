@@ -2,7 +2,7 @@
 
 An efficient Solutions to the Problem Given.
 
-#Requirements
+# Requirements
 1. Jupyter Notebook
 2. Numpy Python Library
 3. Pandas
