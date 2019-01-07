@@ -2,6 +2,10 @@
 
 The dataset is available in input folder.
 
-I have tried to visualise how a student grade is affected on the basis of total alcohol consumption
-in a week.
-It was found that the student who consumes less alcohol got the highest grade. 
+I have designed the algorithm to predict no of times a student consumes alcohol
+in a week by given input its certain data.
+
+I have made a comparative analysis of different multiclass classifier machine learning model
+and tried to visualise each of them based on accuracy of their prediction,error,etc.
+
+Here is some graphs I got after solving the problem 
