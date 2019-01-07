@@ -8,3 +8,4 @@ I have tried my best to give a proper solution to the Problems.
 3. Pandas
 4. Matplot
 5. Seaborn
+6. Scikit
