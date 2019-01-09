@@ -15,7 +15,7 @@ I started fisrt with loading necessary libraries and then loaded the two dataset
 Then I merged the two datasets into a single datasets.
 After that I analysed the behaviour of data by visualising it with different prospective.
 
-Plotted heatmap so as to get insighst on which variable to choose and which to ignore.
+Plotted heatmap so as to get insights on which variable to choose and which to ignore.
 Then I dropped the unnecessary varaibles and divided the datasets into train and test sets respectively.
 
 After that I used those datasets to train the classifier 
